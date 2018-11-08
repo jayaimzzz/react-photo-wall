@@ -1,0 +1,2 @@
+body{font-family:sans-serif;height:100vh}header{text-align:center;position:-webkit-sticky;position:sticky;top:0;background-color:#fff}.collage{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-pack:center;justify-content:center}@media (min-width:800px){.collage{display:grid;grid-template-columns:repeat(4,200px);-ms-flex-pack:center;justify-content:center}}
+/*# sourceMappingURL=main.88178ab7.css.map*/
